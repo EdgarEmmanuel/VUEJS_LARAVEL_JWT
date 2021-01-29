@@ -1,0 +1,5 @@
+CORS => https://github.com/fruitcake/laravel-cors
+
+JWT => https://jwt-auth.readthedocs.io/en/develop/laravel-installation/
+
+JWT => https://blog.pusher.com/laravel-jwt/

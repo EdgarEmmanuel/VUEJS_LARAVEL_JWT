@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/EdgarEmmanuel/JWT_LARAVEL.git
+[submodule "front"]
+	path = front
+	url = https://github.com/EdgarEmmanuel/VUEJS_JWT_AUTHENTICATION.git
